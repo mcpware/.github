@@ -17,11 +17,11 @@
 
 | Tool | What it does | Install |
 |------|-------------|---------|
-| 🔌 [instagram-mcp](https://github.com/mcpware/instagram-mcp) | 23 Instagram Graph API tools — posts, comments, DMs, stories, analytics | `npx @mcpware/instagram-mcp` |
-| 📊 [claude-code-organizer](https://github.com/mcpware/claude-code-organizer) | Visual dashboard for Claude Code configs — memories, skills, MCP, hooks | `npx @mcpware/claude-code-organizer` |
-| 🏷️ [ui-annotator-mcp](https://github.com/mcpware/ui-annotator-mcp) | Hover labels on any web page — AI references elements by name | `npx @mcpware/ui-annotator-mcp` |
-| 🎬 [pagecast](https://github.com/mcpware/pagecast) | Record browser sessions as GIF/video via MCP | `npx @mcpware/pagecast` |
-| 🎨 [logoloom](https://github.com/mcpware/logoloom) | AI logo design → SVG → full brand kit export | `npx @mcpware/logoloom` |
+| 🔌 [Instagram MCP](https://github.com/mcpware/instagram-mcp) | 23 Instagram Graph API tools — posts, comments, DMs, stories, analytics | `npx @mcpware/instagram-mcp` |
+| 📊 [Claude Code Organizer MCP](https://github.com/mcpware/claude-code-organizer) | Visual dashboard for Claude Code configs — memories, skills, MCP, hooks | `npx @mcpware/claude-code-organizer` |
+| 🏷️ [UI Annotator MCP](https://github.com/mcpware/ui-annotator-mcp) | Hover labels on any web page — AI references elements by name | `npx @mcpware/ui-annotator-mcp` |
+| 🎬 [Pagecast MCP](https://github.com/mcpware/pagecast) | Record browser sessions as GIF/video via MCP | `npx @mcpware/pagecast` |
+| 🎨 [LogoLoom MCP](https://github.com/mcpware/logoloom) | AI logo design → SVG → full brand kit export | `npx @mcpware/logoloom` |
 
 ### Quick Start
 
