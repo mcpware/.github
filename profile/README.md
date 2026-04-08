@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <strong>Open source MCP tools — bridging you and AI</strong>
+  Open source MCP tools that bridge you and AI.
 </p>
 
 <p align="center">
@@ -13,35 +13,18 @@
 
 ---
 
-### Our Tools
+### Tools
 
-| Tool | What it does | Install |
-|------|-------------|---------|
-| 🔌 [Instagram MCP](https://github.com/mcpware/instagram-mcp) | 23 Instagram Graph API tools — posts, comments, DMs, stories, analytics | `npx @mcpware/instagram-mcp` |
-| 📊 [Claude Code Organizer MCP](https://github.com/mcpware/claude-code-organizer) | Visual dashboard for Claude Code configs — memories, skills, MCP, hooks | `npx @mcpware/claude-code-organizer` |
-| 🏷️ [UI Annotator](https://github.com/mcpware/ui-annotator-mcp) | Hover labels on any web page — AI references elements by name | `npx @mcpware/ui-annotator-mcp` |
-| 🎬 [Pagecast MCP](https://github.com/mcpware/pagecast) | Record browser sessions as GIF/video via MCP | `npx @mcpware/pagecast` |
-| 🎨 [LogoLoom MCP](https://github.com/mcpware/logoloom) | AI logo design → SVG → full brand kit export | `npx @mcpware/logoloom` |
+| Tool | What it does |
+|------|-------------|
+| 📊 [Claude Code Organizer](https://github.com/mcpware/claude-code-organizer) | Visual dashboard for Claude Code configs, memories, skills, MCP servers, and hooks. Security scanner for tool poisoning. |
+| 🔌 [Instagram MCP](https://github.com/mcpware/instagram-mcp) | 23 Instagram Graph API tools. Posts, comments, DMs, stories, reels, analytics. |
+| 🎬 [Pagecast](https://github.com/mcpware/pagecast) | Record browser sessions as GIF or video via MCP. Playwright + ffmpeg under the hood. |
+| 🏷️ [UI Annotator](https://github.com/mcpware/ui-annotator-mcp) | Hover labels on any web page so AI can reference elements by name. Zero extensions. |
+| 🎨 [LogoLoom](https://github.com/mcpware/logoloom) | AI logo design to SVG to full brand kit. Free, local, MCP-native. |
+| 📓 [NotebookLM API](https://github.com/mcpware/notebooklm-api) | Document Q&A with per-passage citations via Gemini File Search API. |
+| 💾 [Claude Code Backup](https://github.com/mcpware/claude-code-backup) | Automatic backup of all Claude Code settings to GitHub. |
 
-### Quick Start
+---
 
-Every tool is one command away:
-
-```bash
-npx @mcpware/<tool-name>
-```
-
-Or add to your Claude Code / Cursor `.mcp.json`:
-
-```json
-{
-  "mcpServers": {
-    "tool-name": {
-      "command": "npx",
-      "args": ["-y", "@mcpware/tool-name"]
-    }
-  }
-}
-```
-
-All tools are free, open source, and run locally.
+Built and maintained by **[@ithiria894](https://github.com/ithiria894)** — one person, shipping real tools. Star a repo or [check out what else she's building](https://github.com/ithiria894).
