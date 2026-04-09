@@ -25,6 +25,14 @@
 | 📓 [NotebookLM API](https://github.com/mcpware/notebooklm-api) | Document Q&A with per-passage citations via Gemini File Search API. |
 | 💾 [Claude Code Backup](https://github.com/mcpware/claude-code-backup) | Automatic backup of all Claude Code settings to GitHub. |
 
+### Also by [@ithiria894](https://github.com/ithiria894) — [agents-io](https://github.com/agents-io)
+
+| Project | What it does |
+|---------|-------------|
+| 🐾 [PokeClaw](https://github.com/agents-io/PokeClaw) | First open-source on-device AI phone agent. Gemma 4 controls your Android, no cloud, no API key. |
+| 🎙️ [VibeMic](https://github.com/agents-io/vibemic-native-macos) | System-wide voice-to-text for macOS and Ubuntu. Press a key, speak, paste anywhere. |
+| 🔴 [Reddit Unofficial API](https://github.com/agents-io/reddit-unofficial-api) | Free Reddit API through Chrome DevTools. No API keys, no OAuth. |
+
 ---
 
 Built and maintained by **[@ithiria894](https://github.com/ithiria894)** — one person, shipping real tools. Star a repo or [check out what else she's building](https://github.com/ithiria894).
